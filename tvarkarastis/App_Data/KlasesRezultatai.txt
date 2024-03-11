@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------------
+|           klasė |           diena | kelinta pamoka  |                   dalykas |
+-----------------------------------------------------------------------------------
+|              8a |     pirmadienis | 1               |                    fizika |
+|              8b |     pirmadienis | 1               |                  istorija |
+|              8a |     pirmadienis | 2               |              kūno kultūra |
+|              8b |     pirmadienis | 2               |              kūno kultūra |
+|              8a |     pirmadienis | 3               |                   chemija |
+|              8b |     pirmadienis | 3               |                goegrafija |
+|              8a |     pirmadienis | 4               |                    tikyba |
+|              8b |     pirmadienis | 4               |               matematikas |
+|              8a |     antradienis | 1               |                         x |
+|              8b |     antradienis | 1               |                         x |
+|              8a |     antradienis | 3               |                  istorija |
+|              8b |     antradienis | 3               |                    fizika |
+|              8a |     antradienis | 4               |              kūno kultūra |
+|              8b |     antradienis | 4               |              kūno kultūra |
+|              8a |    treciadienis | 2               |                  lietuvių |
+|              8b |    treciadienis | 2               |                goegrafija |
+|              8a |  ketvirtadienis | 5               |              kūno kultūra |
+|              8b |  ketvirtadienis | 5               |              kūno kultūra |
+|              8a |    penktadienis | 3               |                goegrafija |
+|              8b |    penktadienis | 3               |                   chemija |
+-----------------------------------------------------------------------------------

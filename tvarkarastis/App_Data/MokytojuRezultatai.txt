@@ -1,0 +1,10 @@
+-------------------------------------------------------
+|           diena |  kelinta pamoka |       užimtumas |
+-------------------------------------------------------
+|     pirmadienis | 2               | 1               |
+|     antradienis | 4               | 1               |
+|     antradienis | 5               | 1               |
+|     antradienis | 1               | 1               |
+|  ketvirtadienis | 5               | 1               |
+|  ketvirtadienis | 5               | x               |
+-------------------------------------------------------

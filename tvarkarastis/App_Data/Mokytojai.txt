@@ -1,0 +1,11 @@
+﻿2 7
+Pirmadienis x x x x x x x
+Antradienis 1 0 1 1 1 0 1
+Trečiadienis 0 0 0 0 1 1 1
+Ketvirtadienis 1 0 1 0 1 1 1
+Penktadienis 1 1 1 0 0 0 0
+Pirmadienis x x x x x x x
+Antradienis 1 0 1 1 1 0 1
+Trečiadienis 0 0 0 0 1 1 1
+Ketvirtadienis 1 0 1 0 1 1 1
+Penktadienis 1 1 1 0 0 0 0
